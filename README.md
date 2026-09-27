@@ -73,5 +73,5 @@ install.packages(c("tidyverse", "lubridate", "ggthemes", "scales",
                     "ranger", "parsnip", "Metrics"))
 ```
 
-Open `dublin-bikes-data-analysis-in-r.ipynb` in Jupyter with an R kernel,
+Open `main.ipynb` in Jupyter with an R kernel,
 or import the cells into RStudio, updating the dataset file paths first.
